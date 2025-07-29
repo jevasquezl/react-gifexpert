@@ -1,14 +1,15 @@
 import { useState } from 'react';
 import { AddCategory, GifGrid } from './components';
+
 // import { AddCategory } from './components/AddCategory';
 // import { GifGrid } from './components/GifGrid';
 
 
-const apiKey = "VJz6PyzD7UtIT9fFyzeLMTi5Ts76el79";
-const url = `http://api.giphy.com/v1/gifs/random?api_key=${apiKey}&limit=10`;
+// const apiKey = "VJz6PyzD7UtIT9fFyzeLMTi5Ts76el79";
+// const url = `http://api.giphy.com/v1/gifs/random?api_key=${apiKey}&limit=10`;
 
 
-const peticion = fetch(url);
+// const peticion = fetch(url);
 
 
 export const GifExpertApp = () => {
