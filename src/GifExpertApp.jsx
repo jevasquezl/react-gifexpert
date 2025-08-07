@@ -5,7 +5,6 @@ import { AddCategory, GifGrid } from './components';
 // import { GifGrid } from './components/GifGrid';
 
 
-// const apiKey = "VJz6PyzD7UtIT9fFyzeLMTi5Ts76el79";
 // const url = `http://api.giphy.com/v1/gifs/random?api_key=${apiKey}&limit=10`;
 
 
